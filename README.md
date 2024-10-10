@@ -4,8 +4,8 @@
     퍼블리싱된 지표와 매매 시그널은 STOMP로 구현된 소켓 서버를 통해 해당 토픽(/sub/channel/signalBroadCast)으로 발행됩니다.
     UI 바로가기 버튼을 통해 실시간 지표를 확인하실 수 있습니다.    
 
-    가공된 캔들데이타를 누구나 쉽게 활용할 수 있도록 하기 위해 구현했습니다.  
-
+    해당 토픽 구독 시에 가공된 양질의 지표를 쉽게 활용할 수 있도록 하기 위해 구현했습니다.  
+    
 ### 구현방법
 ```
 Java, Spring Boot, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, redis, smile4j, ta4j 
