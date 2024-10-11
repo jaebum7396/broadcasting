@@ -8,7 +8,12 @@
     
 ### 구현방법
 ```
-Java, Spring Boot, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, redis, smile4j, ta4j 
+Java, Spring Boot, 스프링 클라우드, JPA, mysql, Gradle, redis, smile4j, ta4j 
+```
+
+### 배포방법
+```
+Docker, jenkins
 ```
 
 ### 구현예정기능
