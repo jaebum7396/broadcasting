@@ -38,7 +38,7 @@ Docker, jenkins
 
 
   
-##### 함께하시려면 to [jaebum7396](jaebum7396@naver.com)
+##### 함께하시려면 to [jaebum7396@naver.com](jaebum7396@naver.com)
 
 
 
