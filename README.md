@@ -35,8 +35,11 @@ Docker, jenkins
 * [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 웹 소켓 서버
 * [random-nickname](https://github.com/jaebum7396/random-nickname) : 닉네임 랜덤 제공 서버
 
-### JOIN
-함께하시려면 to [jaebum7396](jaebum7396@naver.com)
+
+
+
+##### JOIN
+##### 함께하시려면 to [jaebum7396](jaebum7396@naver.com)
 
 
 
