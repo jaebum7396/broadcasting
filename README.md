@@ -30,6 +30,8 @@ Docker, jenkins
 #### fe
 * [client](https://github.com/jaebum7396/client) : 프로젝트 ui
 
+함께하시려면 to [jaebum7396](jaebum7396@naver.com)
+
 #### service
 * [broadcasting](https://github.com/jaebum7396/broadcasting.git) : 지표 가공 서버
 * [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 웹 소켓 서버
