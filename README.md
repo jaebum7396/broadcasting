@@ -32,9 +32,10 @@ Docker, jenkins
 * [client](https://github.com/jaebum7396/client) : 프로젝트 ui
 
 #### service
-* [signal](https://github.com/jaebum7396/signal) : 지표 가공 및 신호전파 서버
-* [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 웹 소켓 서버
-* [random-nickname](https://github.com/jaebum7396/random-nickname) : 닉네임 랜덤 제공 서버
+* [signal](https://github.com/jaebum7396/signal) : 지표 가공 및 신호전파 서비스
+* [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 웹 소켓 서비스
+* [message](https://github.com/jaebum7396/message) : 레디스로 전파받은 채팅 메시지 저장 및 채팅 메시지 쿼리 서비스
+* [random-nickname](https://github.com/jaebum7396/random-nickname) : 닉네임 랜덤 제공 서비스
 
 
 
