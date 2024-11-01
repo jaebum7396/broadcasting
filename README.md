@@ -8,9 +8,11 @@
     UI 바로가기 버튼을 통해 실시간 지표를 확인하실 수 있습니다.
     해당 토픽 구독 시에 가공된 양질의 지표를 쉽게 활용할 수 있도록 하기 위해 구현했습니다. 
 
-## 라이브차트 및 지표구현
+### 라이브차트 및 지표구현 예시화면
 ![image](https://github.com/user-attachments/assets/4795bf8e-0c52-4b92-816d-ad8d646bc7ed)
-    
+### 부가적인 간단한 채팅
+![image](https://github.com/user-attachments/assets/95d4312a-9cb0-420b-92b4-02efc5999f38)
+
 ### 구현방법
 ```
 Java, Spring Boot, 스프링 클라우드, JPA, mysql, Gradle, redis, smile4j, ta4j 
