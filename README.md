@@ -20,16 +20,16 @@ Docker, jenkins
 
 ### 프로젝트구성  
 ```
-#### 환경
+-- 환경
 * [discovery](https://github.com/jaebum7396/discovery) : 로드밸런싱을 위한 디스커버리 netflix eureka
 * [gateway](https://github.com/jaebum7396/gateway) : 각 서비스 라우팅을 위한 게이트웨이
-#### fe
-* [client](https://github.com/jaebum7396/client) : 프로젝트 ui
-#### service
-* [signal](https://github.com/jaebum7396/signal) : 지표 가공 및 신호전파 서비스
+-- service
 * [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 웹 소켓 서비스
 * [message](https://github.com/jaebum7396/message) : 레디스로 전파받은 채팅 메시지 저장 및 채팅 메시지 쿼리 서비스
+* [signal](https://github.com/jaebum7396/signal) : 지표 가공 및 신호전파 서비스
 * [random-nickname](https://github.com/jaebum7396/random-nickname) : 닉네임 랜덤 제공 서비스
+-- fe
+* [client](https://github.com/jaebum7396/client) : 프로젝트 ui
 ```
 ### 구현예정기능
     - 심볼 선택시 대량의 캔들데이타를 csv형식으로 내려받도록 제공할 예정입니다.
