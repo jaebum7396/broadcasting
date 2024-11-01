@@ -10,8 +10,7 @@
 
 ### 라이브차트 및 지표구현 예시화면
 ![image](https://github.com/user-attachments/assets/4795bf8e-0c52-4b92-816d-ad8d646bc7ed)
-![image](https://github.com/user-attachments/assets/95d4312a-9cb0-420b-92b4-02efc5999f38)
-
+![image](https://github.com/user-attachments/assets/0876e7d1-fffb-47f8-86c3-990405001d9c)
 ### 구현방법
 ```
 Java, Spring Boot, 스프링 클라우드, JPA, mysql, Gradle, redis, smile4j, ta4j 
